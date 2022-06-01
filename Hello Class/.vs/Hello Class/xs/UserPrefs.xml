@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2BB2C19A-403D-1AFF-7430-D614C62E9C79}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Jumper.cs">
+    <Files>
+      <File FileName="Assets/Animal.cs" Line="10" Column="26" />
+      <File FileName="Assets/Zoo.cs" Line="14" Column="24" />
+      <File FileName="Assets/Jumper.cs" Line="11" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hello Class" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Jumper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="264e9a4f-a444-4735-9000-c04650d57ac0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
