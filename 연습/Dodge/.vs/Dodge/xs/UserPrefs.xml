@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BulletSpawner.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="19" Column="1" />
+      <File FileName="Assets/Bullet.cs" Line="26" Column="1" />
+      <File FileName="Assets/BulletSpawner.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dodge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BulletSpawner.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8249b3f-74d5-4b8d-9ec8-5a60a1fab7e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
