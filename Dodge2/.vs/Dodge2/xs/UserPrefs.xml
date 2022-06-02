@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1B9AE541-2F04-B611-9090-4434BEB4409B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/src/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/src/Bullet.cs" Line="19" Column="6" />
+      <File FileName="Assets/src/BulletSpawn.cs" />
+      <File FileName="Assets/src/rotate.cs" Line="12" Column="6" />
+      <File FileName="Assets/src/GameManager.cs" Line="41" Column="27" />
+      <File FileName="Assets/src/PlayerController.cs" Line="31" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dodge2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7907b5e-641c-433d-ac20-6d440e8f758a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
