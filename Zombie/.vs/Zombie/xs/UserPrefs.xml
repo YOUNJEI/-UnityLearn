@@ -1,14 +1,21 @@
 ﻿<Properties StartupConfiguration="{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rotator.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerInput.cs" Line="10" Column="1" />
       <File FileName="Assets/Scripts/PlayerMovement.cs" />
-      <File FileName="Assets/Scripts/IDamageable.cs" Line="4" Column="31" />
-      <File FileName="Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/IDamageable.cs" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/PlayerShooter.cs" Line="66" Column="9" />
       <File FileName="Assets/Scripts/LivingEntity.cs" Line="22" Column="23" />
-      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="73" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="47" Column="26" />
       <File FileName="Assets/Scripts/Enemy.cs" Line="149" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="42" Column="41" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="77" Column="67" />
+      <File FileName="Assets/Scripts/ItemSpawner.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/HealthPack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +23,7 @@
           <Node name="Zombie" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Enemy.cs" selected="True" />
+                <Node name="Rotator.cs" selected="True" />
               </Node>
             </Node>
           </Node>
